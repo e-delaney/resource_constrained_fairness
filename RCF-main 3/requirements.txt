@@ -1,0 +1,12 @@
+pandas
+matplotlib
+numpy
+scikit-learn
+pmlb
+seaborn
+aif360
+tensorflow
+tqdm
+xgboost
+kagglehub
+oxonfair
